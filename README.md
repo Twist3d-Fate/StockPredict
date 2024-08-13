@@ -11,7 +11,7 @@
 
 ---
 
-**ML-Stock-Market-Prediction**, Gathers machine learning and deep learning models for Stock forecasting, included trading bots and simulations.
+**ML-Stock-Market-Prediction**, a project that gathers machine learning and deep learning models for stock forecasting, including trading bots and simulations.
 
 ## Table of contents
   * [Models](#models)
