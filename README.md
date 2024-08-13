@@ -22,10 +22,10 @@
   * [Tensorflow-js](#tensorflow-js)
   * [Misc](#misc)
   * [Results](#results)
-    * [Results Agent](#results-agent)
-    * [Results signal prediction](#results-signal-prediction)
-    * [Results analysis](#results-analysis)
-    * [Results simulation](#results-simulation)
+    * [Agent Results](#agent-results)
+    * [Model Results](#model-results)
+    * [Results Analysis](#results-analysis)
+    * [Simulation Results](#simulation-results)
 
 ## Contents
 
@@ -103,17 +103,18 @@
 
 ### [Tensorflow-js](stock-forecasting-js)
 
-I code [LSTM Recurrent Neural Network](deep-learning/1.lstm.ipynb) and [Simple signal rolling agent](agent/simple-agent.ipynb) inside Tensorflow JS, you can try it here, [huseinhouse.com/stock-forecasting-js](https://huseinhouse.com/stock-forecasting-js/), you can download any historical CSV and upload dynamically.
+I coded [LSTM Recurrent Neural Network](deep-learning-models/lstm.ipynb) and [Simple signal rolling agent](agents/simple-agent.ipynb) inside Tensorflow JS for a web application. 
+You can try it here, [Stock Forecasting JS](file:///C:/Github%20Repos/Stock-Prediction-Models/stock-forecasting-js/index.html), where you can download any historical CSV and upload dynamically.
 
 ### [Misc](misc)
 
-1. fashion trending prediction with cross-validation, [fashion-forecasting.ipynb](misc/fashion-forecasting.ipynb)
+1. Fashion trending prediction with cross-validation, [fashion-forecasting.ipynb](misc/fashion-forecasting.ipynb)
 2. Bitcoin analysis with LSTM prediction, [bitcoin-analysis-lstm.ipynb](misc/bitcoin-analysis-lstm.ipynb)
 3. Kijang Emas Bank Negara, [kijang-emas-bank-negara.ipynb](misc/kijang-emas-bank-negara.ipynb)
 
 ## Results
 
-### Results Agent
+### Agent Results
 
 **This agent only able to buy or sell 1 unit per transaction.**
 
@@ -209,7 +210,7 @@ I code [LSTM Recurrent Neural Network](deep-learning/1.lstm.ipynb) and [Simple s
 
 <img src="agents-results/abcd-strategy.png" width="70%" align="">
 
-### Results signal prediction
+### Model Results
 
 I will cut the dataset to train and test datasets,
 
@@ -300,7 +301,7 @@ So we will let the model do forecasting based on last 30 days, and we will going
 
 <img src="deep-learning-models-results/sentiment-consensus.png" width="70%" align="">
 
-### Results analysis
+### Results Analysis
 
 1. Outliers study using K-means, SVM, and Gaussian on TESLA stock
 
@@ -314,7 +315,7 @@ So we will let the model do forecasting based on last 30 days, and we will going
 
 <img src="misc/which-stock.png" width="40%" align="">
 
-### Results simulation
+### Simulation Results
 
 1. Simple Monte Carlo
 
