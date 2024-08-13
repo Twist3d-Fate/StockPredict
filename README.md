@@ -117,7 +117,7 @@ I code [LSTM Recurrent Neural Network](deep-learning/1.lstm.ipynb) and [Simple s
 
 **This agent only able to buy or sell 1 unit per transaction.**
 
-1. Turtle-trading agent, [turtle-agent.ipynb](agent/1.turtle-agent.ipynb)
+1. Turtle-trading agent, [turtle-agent.ipynb](agent/turtle-agent.ipynb)
 
 <img src="output-agent/turtle-agent.png" width="70%" align="">
 
