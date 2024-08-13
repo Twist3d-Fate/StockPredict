@@ -220,75 +220,75 @@ So we will let the model do forecasting based on last 30 days, and we will going
 
 1. LSTM, accuracy 95.693%, time taken for 1 epoch 01:09
 
-<img src="output/lstm.png" width="70%" align="">
+<img src="deep-learning-model-results/lstm.png" width="70%" align="">
 
 2. LSTM Bidirectional, accuracy 93.8%, time taken for 1 epoch 01:40
 
-<img src="output/bidirectional-lstm.png" width="70%" align="">
+<img src="deep-learning-model-results/bidirectional-lstm.png" width="70%" align="">
 
 3. LSTM 2-Path, accuracy 94.63%, time taken for 1 epoch 01:39
 
-<img src="output/lstm-2path.png" width="70%" align="">
+<img src="deep-learning-model-results/lstm-2path.png" width="70%" align="">
 
 4. GRU, accuracy 94.63%, time taken for 1 epoch 02:10
 
-<img src="output/gru.png" width="70%" align="">
+<img src="deep-learning-model-results/gru.png" width="70%" align="">
 
 5. GRU Bidirectional, accuracy 92.5673%, time taken for 1 epoch 01:40
 
-<img src="output/bidirectional-gru.png" width="70%" align="">
+<img src="deep-learning-model-results/bidirectional-gru.png" width="70%" align="">
 
 6. GRU 2-Path, accuracy 93.2117%, time taken for 1 epoch 01:39
 
-<img src="output/gru-2path.png" width="70%" align="">
+<img src="deep-learning-model-results/gru-2path.png" width="70%" align="">
 
 7. Vanilla, accuracy 91.4686%, time taken for 1 epoch 00:52
 
-<img src="output/vanilla.png" width="70%" align="">
+<img src="deep-learning-model-results/vanilla.png" width="70%" align="">
 
 8. Vanilla Bidirectional, accuracy 88.9927%, time taken for 1 epoch 01:06
 
-<img src="output/bidirectional-vanilla.png" width="70%" align="">
+<img src="deep-learning-model-results/bidirectional-vanilla.png" width="70%" align="">
 
 9. Vanilla 2-Path, accuracy 91.5406%, time taken for 1 epoch 01:08
 
-<img src="output/vanilla-2path.png" width="70%" align="">
+<img src="deep-learning-model-results/vanilla-2path.png" width="70%" align="">
 
 10. LSTM Seq2seq, accuracy 94.9817%, time taken for 1 epoch 01:36
 
-<img src="output/lstm-seq2seq.png" width="70%" align="">
+<img src="deep-learning-model-results/lstm-seq2seq.png" width="70%" align="">
 
 11. LSTM Bidirectional Seq2seq, accuracy 94.517%, time taken for 1 epoch 02:30
 
-<img src="output/bidirectional-lstm-seq2seq.png" width="70%" align="">
+<img src="deep-learning-model-results/bidirectional-lstm-seq2seq.png" width="70%" align="">
 
 12. LSTM Seq2seq VAE, accuracy 95.4190%, time taken for 1 epoch 01:48
 
-<img src="output/lstm-seq2seq-vae.png" width="70%" align="">
+<img src="deep-learning-model-results/lstm-seq2seq-vae.png" width="70%" align="">
 
 13. GRU Seq2seq, accuracy 90.8854%, time taken for 1 epoch 01:34
 
-<img src="output/gru-seq2seq.png" width="70%" align="">
+<img src="deep-learning-model-results/gru-seq2seq.png" width="70%" align="">
 
 14. GRU Bidirectional Seq2seq, accuracy 67.9915%, time taken for 1 epoch 02:30
 
-<img src="output/bidirectional-gru-seq2seq.png" width="70%" align="">
+<img src="deep-learning-model-results/bidirectional-gru-seq2seq.png" width="70%" align="">
 
 15. GRU Seq2seq VAE, accuracy 89.1321%, time taken for 1 epoch 01:48
 
-<img src="output/gru-seq2seq-vae.png" width="70%" align="">
+<img src="deep-learning-model-results/gru-seq2seq-vae.png" width="70%" align="">
 
-16. Attention-is-all-you-Need, accuracy 94.2482%, time taken for 1 epoch 01:41
+16. Attention Learning, accuracy 94.2482%, time taken for 1 epoch 01:41
 
-<img src="output/attention-is-all-you-need.png" width="70%" align="">
+<img src="deep-learning-model-results/attention-learning.png" width="70%" align="">
 
 17. CNN-Seq2seq, accuracy 90.74%, time taken for 1 epoch 00:43
 
-<img src="output/cnn-seq2seq.png" width="70%" align="">
+<img src="deep-learning-model-results/cnn-seq2seq.png" width="70%" align="">
 
 18. Dilated-CNN-Seq2seq, accuracy 95.86%, time taken for 1 epoch 00:14
 
-<img src="output/dilated-cnn-seq2seq.png" width="70%" align="">
+<img src="deep-learning-model-results/dilated-cnn-seq2seq.png" width="70%" align="">
 
 **Bonus**
 
@@ -318,20 +318,20 @@ So we will let the model do forecasting based on last 30 days, and we will going
 
 1. Simple Monte Carlo
 
-<img src="simulation/monte-carlo-simple.png" width="70%" align="">
+<img src="monte-carlo-simulation/monte-carlo-simple.png" width="70%" align="">
 
 2. Dynamic volatity Monte Carlo
 
-<img src="simulation/monte-carlo-dynamic-volatility.png" width="70%" align="">
+<img src="monte-carlo-simulation/monte-carlo-dynamic-volatility.png" width="70%" align="">
 
 3. Drift Monte Carlo
 
-<img src="simulation/monte-carlo-drift.png" width="70%" align="">
+<img src="monte-carlo-simulation/monte-carlo-drift.png" width="70%" align="">
 
 4. Multivariate Drift Monte Carlo BTC/USDT with Bitcurate sentiment
 
-<img src="simulation/multivariate-drift-monte-carlo.png" width="70%" align="">
+<img src="monte-carlo-simulation/multivariate-drift-monte-carlo.png" width="70%" align="">
 
 5. Portfolio optimization
 
-<img src="simulation/portfolio-optimization.png" width="40%" align="">
+<img src="monte-carlo-simulation/portfolio-optimization.png" width="40%" align="">
