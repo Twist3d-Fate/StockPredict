@@ -16,7 +16,6 @@
 ## Table of contents
   * [Models](#models)
   * [Agents](#agents)
-  * [Realtime Agent](realtime-agent)
   * [Data Exploration](#data-exploration)
   * [Simulations](#simulations)
   * [Tensorflow-js](#tensorflow-js)
@@ -85,6 +84,7 @@
 21. Neuro-evolution agent
 22. Neuro-evolution with Novelty search agent
 23. ABCD strategy agent
+24. Realtime-evolution agent
 
 ### [Data Exploration](misc)
 
