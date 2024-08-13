@@ -1,6 +1,6 @@
 <p align="center">
     <a href="#readme">
-        <img alt="logo" width="50%" src="output/evolution-strategy.png">
+        <img alt="logo" width="50%" src="deep-learning-models-results/evolution-strategy.png">
     </a>
 </p>
 <p align="center">
