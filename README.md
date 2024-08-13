@@ -17,7 +17,7 @@
   * [Models](#models)
   * [Agents](#agents)
   * [Realtime Agent](realtime-agent)
-  * [Data Explorations](#data-explorations)
+  * [Data Exploration](#data-exploration)
   * [Simulations](#simulations)
   * [Tensorflow-js](#tensorflow-js)
   * [Misc](#misc)
@@ -86,7 +86,7 @@
 22. Neuro-evolution with Novelty search agent
 23. ABCD strategy agent
 
-### [Data Explorations](misc)
+### [Data Exploration](misc)
 
 1. stock market study on TESLA stock, [tesla-study.ipynb](misc/tesla-study.ipynb)
 2. Outliers study using K-means, SVM, and Gaussian on TESLA stock, [outliers.ipynb](misc/outliers.ipynb)
