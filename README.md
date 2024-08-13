@@ -31,7 +31,7 @@
 
 ### Models
 
-#### [Deep-learning models](deep-learning)
+#### [Deep-Learning Models](deep-learning)
  1. LSTM
  2. LSTM Bidirectional
  3. LSTM 2-Path
@@ -56,7 +56,7 @@
 1. How to use one of the model to forecast `t + N`, [how-to-forecast.ipynb](deep-learning/how-to-forecast.ipynb)
 2. Consensus, how to use sentiment data to forecast `t + N`, [sentiment-consensus.ipynb](deep-learning/sentiment-consensus.ipynb)
 
-#### [Stacking models](stacking)
+#### [Stacking Models](stacking)
  1. Deep Feed-forward Auto-Encoder Neural Network to reduce dimension + Deep Recurrent Neural Network + ARIMA + Extreme Boosting Gradient Regressor
  2. Adaboost + Bagging + Extra Trees + Gradient Boosting + Random Forest + XGB
 
