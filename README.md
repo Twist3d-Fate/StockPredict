@@ -31,7 +31,7 @@
 
 ### Models
 
-#### [Deep-Learning Models](deep-learning)
+#### [Deep-Learning Models](deep-learning-models)
  1. LSTM
  2. LSTM Bidirectional
  3. LSTM 2-Path
@@ -56,11 +56,11 @@
 1. How to use one of the model to forecast `t + N`, [how-to-forecast.ipynb](deep-learning/how-to-forecast.ipynb)
 2. Consensus, how to use sentiment data to forecast `t + N`, [sentiment-consensus.ipynb](deep-learning/sentiment-consensus.ipynb)
 
-#### [Stacking Models](stacking)
+#### [Stacking Models](stacking-classifer)
  1. Deep Feed-forward Auto-Encoder Neural Network to reduce dimension + Deep Recurrent Neural Network + ARIMA + Extreme Boosting Gradient Regressor
  2. Adaboost + Bagging + Extra Trees + Gradient Boosting + Random Forest + XGB
 
-### [Agents](agent)
+### [Agents](agents)
 
 1. Turtle-trading agent
 2. Moving-average agent
@@ -93,7 +93,7 @@
 3. Overbought-Oversold study on TESLA stock, [overbought-oversold.ipynb](misc/overbought-oversold.ipynb)
 4. Which stock you need to buy? [which-stock.ipynb](misc/which-stock.ipynb)
 
-### [Simulations](simulation)
+### [Simulations](monte-carlo-simulation)
 
 1. Simple Monte Carlo, [monte-carlo-drift.ipynb](simulation/monte-carlo-drift.ipynb)
 2. Dynamic volatility Monte Carlo, [monte-carlo-dynamic-volatility.ipynb](simulation/monte-carlo-dynamic-volatility.ipynb)
