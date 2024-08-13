@@ -56,7 +56,7 @@
 1. How to use one of the model to forecast `t + N`, [how-to-forecast.ipynb](deep-learning/how-to-forecast.ipynb)
 2. Consensus, how to use sentiment data to forecast `t + N`, [sentiment-consensus.ipynb](deep-learning/sentiment-consensus.ipynb)
 
-#### [Stacking Models](stacking-classifer)
+#### [Stacking Models](stacking-classifier)
  1. Deep Feed-forward Auto-Encoder Neural Network to reduce dimension + Deep Recurrent Neural Network + ARIMA + Extreme Boosting Gradient Regressor
  2. Adaboost + Bagging + Extra Trees + Gradient Boosting + Random Forest + XGB
 
@@ -103,8 +103,7 @@
 
 ### [Tensorflow-js](stock-forecasting-js)
 
-I coded [LSTM Recurrent Neural Network](deep-learning-models/lstm.ipynb) and [Simple Signal Rolling Agent](agents/simple-agent.ipynb) inside Tensorflow JS for a web application. 
-You can try it here, [Stock Forecasting JS](file:///C:/Github%20Repos/Stock-Prediction-Models/stock-forecasting-js/index.html), where you can download any historical CSV and upload dynamically.
+I coded the [LSTM Recurrent Neural Network](deep-learning/1.lstm.ipynb) and [Simple Signal Rolling Agent](agent/simple-agent.ipynb) inside Tensorflow JS, and you can try it by cloning the [stock-forecasting-js](stock-forecasting-js) folder and opening the [index.html](index.html) file. In the application, you can download any historical CSV and upload dynamically.
 
 ### [Misc](misc)
 
