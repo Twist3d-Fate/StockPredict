@@ -14,8 +14,6 @@ Linear algebra: [numeric JS](https://github.com/sloisel/numeric), [numJS](https:
 
 1. Clone this folder and just open [index.html](index.html),
 
-Or, go to [huseinhouse.com/stock-forecasting-js](https://huseinhouse.com/stock-forecasting-js/)!
-
 ![alt text](demo-images/1.png)
 
 2. Check hyper parameters you want to tune,
