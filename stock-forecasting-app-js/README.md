@@ -16,11 +16,11 @@ Linear algebra: [numeric JS](https://github.com/sloisel/numeric), [numJS](https:
 
 Or, go to [huseinhouse.com/stock-forecasting-js](https://huseinhouse.com/stock-forecasting-js/)!
 
-![alt text](screenshot/1.png)
+![alt text](demo-images/1.png)
 
 2. Check hyper parameters you want to tune,
 
-![alt text](screenshot/2.png)
+![alt text](demo-images/2.png)
 
 3. You can upload any stock CSV, downloaded from Yahoo finance or any website. Any error, please open an issue.
 
@@ -28,8 +28,8 @@ Or, go to [huseinhouse.com/stock-forecasting-js](https://huseinhouse.com/stock-f
 
 5. After done training, it will predict where to buy and sell,
 
-![alt text](screenshot/3.png)
+![alt text](demo-images/3.png)
 
 Comparing histogram and loss graph,
 
-![alt text](screenshot/4.png)
+![alt text](demo-images/4.png)
