@@ -103,7 +103,7 @@
 
 ### [Tensorflow-js](stock-forecasting-js)
 
-I coded [LSTM Recurrent Neural Network](deep-learning-models/lstm.ipynb) and [Simple signal rolling agent](agents/simple-agent.ipynb) inside Tensorflow JS for a web application. 
+I coded [LSTM Recurrent Neural Network](deep-learning-models/lstm.ipynb) and [Simple Signal Rolling Agent](agents/simple-agent.ipynb) inside Tensorflow JS for a web application. 
 You can try it here, [Stock Forecasting JS](file:///C:/Github%20Repos/Stock-Prediction-Models/stock-forecasting-js/index.html), where you can download any historical CSV and upload dynamically.
 
 ### [Misc](misc)
