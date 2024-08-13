@@ -117,95 +117,95 @@ I code [LSTM Recurrent Neural Network](deep-learning/1.lstm.ipynb) and [Simple s
 
 **This agent only able to buy or sell 1 unit per transaction.**
 
-1. Turtle-trading agent, [turtle-agent.ipynb](agent/turtle-agent.ipynb)
+1. Turtle-trading agent, [turtle-agent.ipynb](agents/turtle-agent.ipynb)
 
 <img src="output-agent/turtle-agent.png" width="70%" align="">
 
-2. Moving-average agent, [moving-average-agent.ipynb](agent/2.moving-average-agent.ipynb)
+2. Moving-average agent, [moving-average-agent.ipynb](agents/moving-average-agent.ipynb)
 
 <img src="output-agent/moving-average-agent.png" width="70%" align="">
 
-3. Signal rolling agent, [signal-rolling-agent.ipynb](agent/3.signal-rolling-agent.ipynb)
+3. Signal rolling agent, [signal-rolling-agent.ipynb](agents/signal-rolling-agent.ipynb)
 
 <img src="output-agent/signal-rolling-agent.png" width="70%" align="">
 
-4. Policy-gradient agent, [policy-gradient-agent.ipynb](agent/4.policy-gradient-agent.ipynb)
+4. Policy-gradient agent, [policy-gradient-agent.ipynb](agents/policy-gradient-agent.ipynb)
 
 <img src="output-agent/policy-gradient-agent.png" width="70%" align="">
 
-5. Q-learning agent, [q-learning-agent.ipynb](agent/5.q-learning-agent.ipynb)
+5. Q-learning agent, [q-learning-agent.ipynb](agents/q-learning-agent.ipynb)
 
 <img src="output-agent/q-learning-agent.png" width="70%" align="">
 
-6. Evolution-strategy agent, [evolution-strategy-agent.ipynb](agent/6.evolution-strategy-agent.ipynb)
+6. Evolution-strategy agent, [evolution-strategy-agent.ipynb](agents/evolution-strategy-agent.ipynb)
 
 <img src="output-agent/evolution-strategy-agent.png" width="70%" align="">
 
-7. Double Q-learning agent, [double-q-learning-agent.ipynb](agent/7.double-q-learning-agent.ipynb)
+7. Double Q-learning agent, [double-q-learning-agent.ipynb](agents/double-q-learning-agent.ipynb)
 
 <img src="output-agent/double-q-learning.png" width="70%" align="">
 
-8. Recurrent Q-learning agent, [recurrent-q-learning-agent.ipynb](agent/8.recurrent-q-learning-agent.ipynb)
+8. Recurrent Q-learning agent, [recurrent-q-learning-agent.ipynb](agents/recurrent-q-learning-agent.ipynb)
 
 <img src="output-agent/recurrent-q-learning.png" width="70%" align="">
 
-9. Double Recurrent Q-learning agent, [double-recurrent-q-learning-agent.ipynb](agent/9.double-recurrent-q-learning-agent.ipynb)
+9. Double Recurrent Q-learning agent, [double-recurrent-q-learning-agent.ipynb](agents/double-recurrent-q-learning-agent.ipynb)
 
 <img src="output-agent/double-recurrent-q-learning.png" width="70%" align="">
 
-10. Duel Q-learning agent, [duel-q-learning-agent.ipynb](agent/10.duel-q-learning-agent.ipynb)
+10. Duel Q-learning agent, [duel-q-learning-agent.ipynb](agents/duel-q-learning-agent.ipynb)
 
 <img src="output-agent/double-q-learning.png" width="70%" align="">
 
-11. Double Duel Q-learning agent, [double-duel-q-learning-agent.ipynb](agent/11.double-duel-q-learning-agent.ipynb)
+11. Double Duel Q-learning agent, [double-duel-q-learning-agent.ipynb](agents/double-duel-q-learning-agent.ipynb)
 
 <img src="output-agent/double-duel-q-learning.png" width="70%" align="">
 
-12. Duel Recurrent Q-learning agent, [duel-recurrent-q-learning-agent.ipynb](agent/12.duel-recurrent-q-learning-agent.ipynb)
+12. Duel Recurrent Q-learning agent, [duel-recurrent-q-learning-agent.ipynb](agents/duel-recurrent-q-learning-agent.ipynb)
 
 <img src="output-agent/duel-recurrent-q-learning.png" width="70%" align="">
 
-13. Double Duel Recurrent Q-learning agent, [double-duel-recurrent-q-learning-agent.ipynb](agent/13.double-duel-recurrent-q-learning-agent.ipynb)
+13. Double Duel Recurrent Q-learning agent, [double-duel-recurrent-q-learning-agent.ipynb](agents/double-duel-recurrent-q-learning-agent.ipynb)
 
 <img src="output-agent/double-duel-recurrent-q-learning.png" width="70%" align="">
 
-14. Actor-critic agent, [actor-critic-agent.ipynb](agent/14.actor-critic-agent.ipynb)
+14. Actor-critic agent, [actor-critic-agent.ipynb](agents/actor-critic-agent.ipynb)
 
 <img src="output-agent/actor-critic.png" width="70%" align="">
 
-15. Actor-critic Duel agent, [actor-critic-duel-agent.ipynb](agent/14.actor-critic-duel-agent.ipynb)
+15. Actor-critic Duel agent, [actor-critic-duel-agent.ipynb](agents/actor-critic-duel-agent.ipynb)
 
 <img src="output-agent/actor-critic-duel.png" width="70%" align="">
 
-16. Actor-critic Recurrent agent, [actor-critic-recurrent-agent.ipynb](agent/16.actor-critic-recurrent-agent.ipynb)
+16. Actor-critic Recurrent agent, [actor-critic-recurrent-agent.ipynb](agents/actor-critic-recurrent-agent.ipynb)
 
 <img src="output-agent/actor-critic-recurrent.png" width="70%" align="">
 
-17. Actor-critic Duel Recurrent agent, [actor-critic-duel-recurrent-agent.ipynb](agent/17.actor-critic-duel-recurrent-agent.ipynb)
+17. Actor-critic Duel Recurrent agent, [actor-critic-duel-recurrent-agent.ipynb](agents/actor-critic-duel-recurrent-agent.ipynb)
 
 <img src="output-agent/actor-critic-duel-recurrent.png" width="70%" align="">
 
-18. Curiosity Q-learning agent, [curiosity-q-learning-agent.ipynb](agent/18.curiosity-q-learning-agent.ipynb)
+18. Curiosity Q-learning agent, [curiosity-q-learning-agent.ipynb](agents/curiosity-q-learning-agent.ipynb)
 
 <img src="output-agent/curiosity-q-learning.png" width="70%" align="">
 
-19. Recurrent Curiosity Q-learning agent, [recurrent-curiosity-q-learning.ipynb](agent/19.recurrent-curiosity-q-learning-agent.ipynb)
+19. Recurrent Curiosity Q-learning agent, [recurrent-curiosity-q-learning.ipynb](agents/recurrent-curiosity-q-learning-agent.ipynb)
 
 <img src="output-agent/recurrent-curiosity-q-learning.png" width="70%" align="">
 
-20. Duel Curiosity Q-learning agent, [duel-curiosity-q-learning-agent.ipynb](agent/20.duel-curiosity-q-learning-agent.ipynb)
+20. Duel Curiosity Q-learning agent, [duel-curiosity-q-learning-agent.ipynb](agents/duel-curiosity-q-learning-agent.ipynb)
 
 <img src="output-agent/duel-curiosity-q-learning.png" width="70%" align="">
 
-21. Neuro-evolution agent, [neuro-evolution.ipynb](agent/21.neuro-evolution-agent.ipynb)
+21. Neuro-evolution agent, [neuro-evolution.ipynb](agents/neuro-evolution-agent.ipynb)
 
 <img src="output-agent/neuro-evolution.png" width="70%" align="">
 
-22. Neuro-evolution with Novelty search agent, [neuro-evolution-novelty-search.ipynb](agent/22.neuro-evolution-novelty-search-agent.ipynb)
+22. Neuro-evolution with Novelty search agent, [neuro-evolution-novelty-search.ipynb](agents/neuro-evolution-novelty-search-agent.ipynb)
 
 <img src="output-agent/neuro-evolution-novelty-search.png" width="70%" align="">
 
-23. ABCD strategy agent, [abcd-strategy.ipynb](agent/23.abcd-strategy-agent.ipynb)
+23. ABCD strategy agent, [abcd-strategy.ipynb](agents/abcd-strategy-agent.ipynb)
 
 <img src="output-agent/abcd-strategy.png" width="70%" align="">
 
