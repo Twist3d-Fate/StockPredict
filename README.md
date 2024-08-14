@@ -211,12 +211,12 @@ I coded the [LSTM Recurrent Neural Network](deep-learning/1.lstm.ipynb) and [Sim
 
 ### Model Results
 
-I will cut the dataset to train and test datasets,
+For train-test split: 
 
-1. Train dataset derived from starting timestamp until last 30 days
-2. Test dataset derived from last 30 days until end of the dataset
+1. Train dataset was derived from the starting timestamp until the last 30 days
+2. Test dataset was derived from the last 30 days until the end of the dataset
 
-So we will let the model do forecasting based on last 30 days, and we will going to repeat the experiment for 10 times. You can increase it locally if you want, and tuning parameters will help you by a lot.
+The model did forecasting based on last 30 days, and this experiment was repeated 10 times. This can be increased locally, and hyperparameter tuning is also recommended.
 
 1. LSTM, accuracy 95.693%, time taken for 1 epoch 01:09
 
