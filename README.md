@@ -52,8 +52,8 @@
 
 **Bonus**
 
-1. How to use one of the model to forecast `t + N`, [how-to-forecast.ipynb](deep-learning/how-to-forecast.ipynb)
-2. Consensus, how to use sentiment data to forecast `t + N`, [sentiment-consensus.ipynb](deep-learning/sentiment-consensus.ipynb)
+1. How to use one of the model to forecast `t + N`, [how-to-forecast.ipynb](deep-learning-models/how-to-forecast.ipynb)
+2. Consensus, how to use sentiment data to forecast `t + N`, [sentiment-consensus.ipynb](deep-learning-models/sentiment-consensus.ipynb)
 
 #### [Stacking Models](stacking-classifier)
  1. Deep Feed-forward Auto-Encoder Neural Network to reduce dimension + Deep Recurrent Neural Network + ARIMA + Extreme Boosting Gradient Regressor
@@ -95,11 +95,11 @@
 
 ### [Simulations](monte-carlo-simulation)
 
-1. Simple Monte Carlo, [monte-carlo-drift.ipynb](simulation/monte-carlo-drift.ipynb)
-2. Dynamic volatility Monte Carlo, [monte-carlo-dynamic-volatility.ipynb](simulation/monte-carlo-dynamic-volatility.ipynb)
-3. Drift Monte Carlo, [monte-carlo-drift.ipynb](simulation/monte-carlo-drift.ipynb)
-4. Multivariate Drift Monte Carlo BTC/USDT with Bitcurate sentiment, [multivariate-drift-monte-carlo.ipynb](simulation/multivariate-drift-monte-carlo.ipynb)
-5. Portfolio optimization, [portfolio-optimization.ipynb](simulation/portfolio-optimization.ipynb), inspired from https://pythonforfinance.net/2017/01/21/investment-portfolio-optimisation-with-python/
+1. Simple Monte Carlo, [monte-carlo-drift.ipynb](monte-carlo-simulation/monte-carlo-drift.ipynb)
+2. Dynamic volatility Monte Carlo, [monte-carlo-dynamic-volatility.ipynb](monte-carlo-simulation/monte-carlo-dynamic-volatility.ipynb)
+3. Drift Monte Carlo, [monte-carlo-drift.ipynb](monte-carlo-simulation/monte-carlo-drift.ipynb)
+4. Multivariate Drift Monte Carlo BTC/USDT with Bitcurate sentiment, [multivariate-drift-monte-carlo.ipynb](monte-carlo-simulation/multivariate-drift-monte-carlo.ipynb)
+5. Portfolio optimization, [portfolio-optimization.ipynb](monte-carlo-simulation/portfolio-optimization.ipynb), inspired from https://pythonforfinance.net/2017/01/21/investment-portfolio-optimisation-with-python/
 
 ### [Tensorflow-js](stock-forecasting-js)
 
