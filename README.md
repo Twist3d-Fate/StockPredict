@@ -16,10 +16,8 @@
 ## Table of contents
   * [Models](#models)
   * [Agents](#agents)
-  * [Data Exploration](#data-exploration)
   * [Simulations](#simulations)
   * [Tensorflow-js](#tensorflow-js)
-  * [Misc](#misc)
   * [Results](#results)
     * [Agent Results](#agent-results)
     * [Model Results](#model-results)
