@@ -5,8 +5,8 @@
 </p>
 <p align="center">
   <a href="https://github.com/Twist3d-Fate/MLStockMarketPrediction/blob/main/LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
-  <a href="#"><img src="https://img.shields.io/badge/deeplearning-30--models-success.svg"></a>
-  <a href="#"><img src="https://img.shields.io/badge/agent-23--models-success.svg"></a>
+  <a href="#"><img src="https://img.shields.io/badge/deeplearning-20--models-success.svg"></a>
+  <a href="#"><img src="https://img.shields.io/badge/agent-24--models-success.svg"></a>
 </p>
 
 ---
