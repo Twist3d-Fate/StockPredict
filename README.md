@@ -300,20 +300,6 @@ The model did forecasting based on last 30 days, and this experiment was repeate
 
 <img src="deep-learning-models-results/sentiment-consensus.png" width="70%" align="">
 
-### Results Analysis
-
-1. Outliers study using K-means, SVM, and Gaussian on TESLA stock
-
-<img src="misc/outliers.png" width="70%" align="">
-
-2. Overbought-Oversold study on TESLA stock
-
-<img src="misc/overbought-oversold.png" width="70%" align="">
-
-3. Which stock you need to buy?
-
-<img src="misc/which-stock.png" width="40%" align="">
-
 ### Simulation Results
 
 1. Simple Monte Carlo
