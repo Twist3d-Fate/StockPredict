@@ -189,7 +189,7 @@ I coded the [LSTM Recurrent Neural Network](deep-learning/1.lstm.ipynb) and [Sim
 
 <img src="agents-results/abcd-strategy.png" width="70%" align="">
 
-24. Evolution-strategy bayesian agent [evolution-strategy-bayesian-agent.ipynb](agents/evolution-strategy-bayesian-agent.ipynb)
+24. Evolution-strategy bayesian agent, [evolution-strategy-bayesian-agent.ipynb](agents/evolution-strategy-bayesian-agent.ipynb)
 
 <img src="agents-results/evolution-strategy-bayesian-agent.png" width="70%" align="">
 
