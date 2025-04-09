@@ -48,11 +48,6 @@
  17. CNN-Seq2seq
  18. Dilated-CNN-Seq2seq
 
-**Bonus**
-
-1. How to use one of the model to forecast `t + N`, [how-to-forecast.ipynb](deep-learning-models/how-to-forecast.ipynb)
-2. Consensus, how to use sentiment data to forecast `t + N`, [sentiment-consensus.ipynb](deep-learning-models/sentiment-consensus.ipynb)
-
 #### [Stacking Models](stacking-classifier)
  1. Deep Feed-forward Auto-Encoder Neural Network to reduce dimension + Deep Recurrent Neural Network + ARIMA + Extreme Boosting Gradient Regressor
  2. Adaboost + Bagging + Extra Trees + Gradient Boosting + Random Forest + XGB
@@ -274,16 +269,6 @@ The model did forecasting based on last 30 days, and this experiment was repeate
 18. Dilated-CNN-Seq2seq, accuracy 95.86%, time taken for 1 epoch 00:14
 
 <img src="deep-learning-models-results/dilated-cnn-seq2seq.png" width="70%" align="">
-
-**Bonus**
-
-1. How to forecast,
-
-<img src="deep-learning-models-results/how-to-forecast.png" width="70%" align="">
-
-2. Sentiment consensus,
-
-<img src="deep-learning-models-results/sentiment-consensus.png" width="70%" align="">
 
 ### Simulation Results
 
