@@ -275,11 +275,11 @@ The model did forecasting based on last 30 days, and this experiment was repeate
 
 19. Deep Feed-forward Auto-Encoder Neural Network to reduce dimension + Deep Recurrent Neural Network + ARIMA + XGB
 
-<img src="deep-learning-models-results/stack-rnn-arima-xgb.png" width="70%" align="center">
+<img src="deep-learning-models-results/stack-rnn-arima-xgb.png" width="70%" align="">
 
 20. Adaboost + Bagging + Extra Trees + Gradient Boosting + Random Forest + XGB
 
-<img src="deep-learning-models-results/stack-encoder-ensemble-xgb.png" width="70%" align="center">
+<img src="deep-learning-models-results/stack-encoder-ensemble-xgb.png" width="70%" align="">
 
 ### Simulation Results
 
