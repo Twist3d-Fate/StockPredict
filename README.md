@@ -274,6 +274,14 @@ The model did forecasting based on last 30 days, and this experiment was repeate
 
 <img src="deep-learning-models-results/dilated-cnn-seq2seq.png" width="70%" align="">
 
+19. Deep Feed-forward Auto-Encoder Neural Network to reduce dimension + Deep Recurrent Neural Network + ARIMA + XGB
+
+<img src="deep-learning-models-results/stack-rnn-arima-xgb.png" width="70%" align="">
+
+20. Adaboost + Bagging + Extra Trees + Gradient Boosting + Random Forest + XGB
+
+<img src="deep-learning-models-results/stack-encoder-ensemble-xgb.png" width="70%" align="">
+
 ### Simulation Results
 
 1. Simple Monte Carlo
