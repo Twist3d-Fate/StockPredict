@@ -291,7 +291,3 @@ The model did forecasting based on last 30 days, and this experiment was repeate
 4. Multivariate Drift Monte Carlo BTC/USDT with Bitcurate sentiment
 
 <img src="monte-carlo-simulation/multivariate-drift-monte-carlo.png" width="70%" align="">
-
-5. Portfolio optimization
-
-<img src="monte-carlo-simulation/portfolio-optimization.png" width="40%" align="">
