@@ -86,13 +86,6 @@
 23. ABCD strategy agent
 24. Realtime-evolution agent
 
-### [Data Exploration](misc)
-
-1. stock market study on TESLA stock, [tesla-study.ipynb](misc/tesla-study.ipynb)
-2. Outliers study using K-means, SVM, and Gaussian on TESLA stock, [outliers.ipynb](misc/outliers.ipynb)
-3. Overbought-Oversold study on TESLA stock, [overbought-oversold.ipynb](misc/overbought-oversold.ipynb)
-4. Which stock you need to buy? [which-stock.ipynb](misc/which-stock.ipynb)
-
 ### [Simulations](monte-carlo-simulation)
 
 1. Simple Monte Carlo, [monte-carlo-drift.ipynb](monte-carlo-simulation/monte-carlo-drift.ipynb)
