@@ -21,7 +21,6 @@
   * [Results](#results)
     * [Agent Results](#agent-results)
     * [Model Results](#model-results)
-    * [Results Analysis](#results-analysis)
     * [Simulation Results](#simulation-results)
 
 ## Contents
